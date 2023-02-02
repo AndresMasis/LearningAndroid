@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EjercicioPractico2</string>
+
+    <string name="primer_valor">Primer Valor</string>
+    <string name="segundo_valor">Segundo Valor</string>
+
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+
+    <string name="boton">Calcular</string>
+
+    <string name="resultado">Resultado:</string>
+
+</resources>
